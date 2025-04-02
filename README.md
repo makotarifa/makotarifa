@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Ángel Jesús Morando
+# 👋 Hey! I'm Ángel J. Morando
 
 I'm a 25-year-old guy from the south of Spain 🇪🇸 who’s been in love with computers since I was a kid.  
 What started with curiosity and breaking things (oops 😅) turned into a passion for building stuff that works.
