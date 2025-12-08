@@ -1,10 +1,9 @@
 # 👋 Hey! I'm Ángel J. Morando
 
-I'm a 25-year-old guy from the south of Spain 🇪🇸 who’s been in love with computers since I was a kid.  
+I'm a 26-year-old guy from the south of Spain 🇪🇸 who’s been in love with computers since I was a kid.  
 What started with curiosity and breaking things (oops 😅) turned into a passion for building stuff that works.
 
-Currently, I’m working as a **Full Stack Developer** at [MetaMedicsVR](https://github.com/MetaMedicsVR-org), where I build web apps using **React + TypeScript** on the frontend and **Java + Spring Boot** on the backend. I’m also the guy behind our CI/CD pipelines (hello, **Jenkins**), managing Dockerized deployments and AWS infrastructure.
-
+Currently, I’m working as a **Full Stack Developer** at [FRS Systems](https://www.frs-systems.de/es/).
 ---
 
 ## 💻 A bit more about what I do
